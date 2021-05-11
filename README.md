@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Javvadi Sai Krishna
 - 👀 I’m interested in Python,Tableau,AWS
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Aws projects, Dev Ops, Data Science
 - 📫 How to reach me saijavvadi98@gmail.com
 
 <!---
